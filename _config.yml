@@ -1,0 +1,13 @@
+# Site settings
+title: Collect
+motto: ggggg
+email: GusYenne@outlook.com
+description: > 
+  CoolCoolerCoolest
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "yenne.xyz" # the base hostname & protocol for your site
+twitter_username: ggg
+github_username: GusYenne
+
+# Build settings
+markdown: kramdown
